@@ -1,0 +1,3 @@
+//for(;;){}
+//for(; true;){}
+//Dois exemplos de laços infinitos com for...
